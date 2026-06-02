@@ -1,4 +1,4 @@
-# Privacy Policy for the Pinterest App
+# Privacy Policy for **dococtor037** Pinterest App
 
 **Effective Date:** 02.06.2026
 
