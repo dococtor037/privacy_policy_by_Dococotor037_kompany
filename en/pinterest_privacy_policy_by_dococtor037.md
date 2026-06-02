@@ -1,6 +1,6 @@
 # Privacy Policy for the Pinterest App
 
-**Effective Date:** [02.06.2026]
+**Effective Date:** 02.06.2026
 
 ## Introduction
 This app (hereinafter referred to as the "App") is designed for automatically posting images to Pinterest.
